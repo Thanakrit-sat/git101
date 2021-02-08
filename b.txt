@@ -1,1 +1,3 @@
-hello b.txt
+This is b.txt
+# swap a, branch in python
+a, b = b, a
